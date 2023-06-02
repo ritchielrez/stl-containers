@@ -37,7 +37,7 @@ int main()
         std::cout << "\n";
 
         std::cout << "Size: " << deq1.size() << "\n";
-        std::cout << "Maximum size: " << deq1.max_size() << "\n\n";
+        std::cout << "Maximum size: " << deq1.max_size() << "\n";
     }
 
     {
